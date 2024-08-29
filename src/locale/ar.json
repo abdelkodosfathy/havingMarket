@@ -1,0 +1,295 @@
+{
+  "search": {
+    "forRent": "للإيجار",
+    "forSell": "للبيع",
+    "rooms": "الغرف",
+    "bathrooms": "الحمامات",
+    "propertyType": "نوع العقار",
+    "search": "بحث",
+    "selectCity": "اختر مدينة أو عدة مدن"
+  },
+  "navbar": {
+    "home": "الرئيسية",
+    "buy": "شراء",
+    "rent": "إيجار",
+    "dashboard": "لوحة التحكم",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج",
+    "login": "تسجيل الدخول"
+  },
+  "title": "اكتشف منزلك المثالي مع عقاراتنا الحصرية",
+  "footer": {
+    "contact": "اتصل بنا",
+    "support": "الدعم",
+    "phone": "الهاتف",
+    "legal": "قانوني",
+    "privacyPolicy": "سياسة الخصوصية",
+    "terms": "شروط الاستخدام",
+    "copyRights": "جميع الحقوق محفوظة."
+  },
+  "card": {
+    "type": {
+      "housing": "سكني",
+      "industrial": "صناعي",
+      "coastal": "ساحلي",
+      "commercial": "تجاري",
+      "land": "أرض"
+    },
+    "noPrice": "لا يوجد سعر",
+    "currency": "جنيه",
+    "bedrooms": "غرف النوم",
+    "bathrooms": "الحمامات",
+    "size": "م²",
+    "actions": {
+      "fav": "المفضلة",
+      "tasks": "المهام",
+      "remove": "حذف",
+      "edit": "تعديل",
+      "love": "إضافة إلى المفضلة",
+      "unlove": "إزالة من المفضلة",
+      "location": "الموقع علي الخريطة"
+    },
+    "buttons": {
+      "phone": "الهاتف",
+      "whatsapp": "واتساب",
+      "email": "البريد الإلكتروني"
+    },
+    "address": "العنوان",
+    "city": "المدينة",
+    "copyPhone": "نسخ رقم الهاتف"
+  },
+  "view": {
+    "additionalFeaturesTitle": "مميزات إضافية",
+    "descriptionTitle": "تفاصيل العقار",
+    "priceLabel": "السعر:",
+    "bedroomsLabel": "غرف النوم:",
+    "bathroomsLabel": "الحمامات:",
+    "sizeLabel": "المساحة:",
+    "copyPhoneSuccess": "تم نسخ رقم الهاتف إلى الحافظة!",
+    "copyPhoneError": "فشل نسخ رقم الهاتف.",
+    "userProfileDefault": "مستخدم",
+    "userProfileAlt": "صورة الملف الشخصي",
+    "emailLabel": "البريد الإلكتروني",
+    "phoneLabel": "الهاتف"
+  },
+  "profile": {
+    "information": "معلومات",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "updatePhonePrompt": "يرجى إدخال رقم هاتفك",
+    "sendPhoneButton": "إرسال الهاتف",
+    "currentPassword": "كلمة المرور الحالية",
+    "newPassword": "كلمة المرور الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "changePasswordButton": "تغيير كلمة المرور",
+    "passwordUpdatedSuccess": "تم تحديث كلمة المرور بنجاح!",
+    "passwordUpdatedError": "فشل في تحديث كلمة المرور.",
+    "deleteAccountButton": "حذف الحساب",
+    "showPrivacySettings": "عرض إعدادات الخصوصية",
+    "setting": "الاعدادت",
+    "hidePrivacySettings": "إخفاء إعدادات الخصوصية",
+    "profileImageAlt": "صورة المستخدم. انقر لتغيير الصورة",
+    "addProfileImageAlt": "صورة مستخدم غير موجودة، انقر لإضافة صورة"
+  },
+  "common": {
+    "edit": "تعديل",
+    "remove": "حذف",
+    "save": "حفظ",
+    "submit": "تأكيد"
+  },
+  "dashboard": {
+    "myProps": "عقاراتي",
+    "favourite": "المفضلة",
+    "addProp": "اصافة عقار",
+    "addPropertyTab": {
+      "nextTab": "التالي",
+      "prevTab": "السابق",
+      "tab1": {
+        "title": "اولا",
+        "content": {
+          "address": "العنوان",
+          "location": "الموقع",
+          "governorate": {
+            "label": "المحافظة",
+            "placeholder": "اختار المحافظة"
+          },
+          "city": {
+            "label": "المدينة",
+            "placeholder": "اختار المدينة"
+          }
+        }
+      },
+      "tab2": {
+        "title": "ثانيا",
+        "content": {
+          "type": "النوع",
+          "activity": "النشاط/التصنيف",
+          "finishingType": "نوع التشطيب",
+          "floors": "الادوار",
+          "space": "المساحة بالمتر",
+          "bathrooms": "الحمامات",
+          "rooms": "الغرف",
+          "finishingOptions": {
+            "selectFinishingType": "اختار نوع التشطيب",
+            "unfinished": "بدون التشطيب",
+            "semi_finished": "نصف التشطيب",
+            "finished": "كاملة التشطيب",
+            "luxury": "سوبر لوكس",
+            "furnished": "شامل الفرش"
+          },
+          "options": {
+            "selectType": "اختار النوع",
+            "housing": "سكني",
+            "industrial": "صناعي",
+            "coastal": "ساحلي",
+            "commercial": "تجاري",
+            "land": "أرض"
+          }
+        }
+      },
+      "tab3": {
+        "title": "ثالثا",
+        "content": {
+          "description": "الوصف",
+          "price": "السعر",
+          "sell": "بيع",
+          "rend": "ايجار",
+          "cash": "كاش",
+          "installment": "تقسيط"
+        }
+      },
+      "tab4": {
+        "title": "رابعا",
+        "content": {
+          "pictures": "الصور",
+          "coverPictures": "صورة الغلاف",
+          "nextPic": "التالية",
+          "prevPic": "السابقة",
+          "apply": "تعيين",
+          "addPic": "اضف الصور"
+        }
+      },
+      "tab5": {
+        "title": "خامسا",
+        "content": {
+          "AddictionalFeatures": "المزايا الاضافية"
+        }
+      }
+    }
+  },
+  "missing": {
+    "cardsViewer": {
+      "notFound": "لا توجد عقارات ليتم عرضها"
+    }
+  },
+  "sidebar": {
+    "propertyType": "نوع العقار",
+    "financialSpecs": "مواصفات المالية",
+    "technicalSpecs": "مواصفات فنية",
+    "finishingType": "نوع التشطيب",
+    "additionalFeatures": "ميزات اضافية",
+    "applyFilters": "تطبيق",
+    "resetFilters": "اعادة ضبط",
+    "types": {
+      "housing": "سكني",
+      "commercial": "تجاري",
+      "coastal": "ساحلي",
+      "industrial": "صناعي",
+      "land": "ارض"
+    },
+    "price": "السعر",
+    "payment": {
+      "cash": "كاش",
+      "installment": "تقسيط"
+    },
+    "space": {
+      "from": "من",
+      "to": "الي",
+      "area": "المساحة"
+    },
+    "rooms": "الغرف",
+    "bathrooms": "الحمامات",
+    "location":{
+      "label": "الموقع",
+      "governorate":"المحافظة",
+      "city":"المدينة",
+      "governoratePlaceholder":"اختار المحافظة",
+      "cityPlaceholder":"اختار المدينة"
+    },
+    "finishing": {
+      "unfinished": "بدون",
+      "semi_finished": "نصف",
+      "finished": "كامل",
+      "luxury": "سوبر لوكس",
+      "furnished": "شامل الفرش"
+    },
+    "featuresMessage": "قم باختيار نوع العقار اولا",
+    "activity": "النشاط",
+    "classification": "التصنيف",
+    "from": "من",
+    "to": "ألي"
+  },
+  "activities":{
+    "housing": {
+      "type": "سكني",
+      "apartment": "شقة",
+      "loft": "لوفت",
+      "penthouse": "بنتهاوس",
+      "villa": "فيلا",
+      "townHouse": "تاون هاوس",
+      "duplex": "دوبلكس",
+      "twinVilla": "فيلا ثؤام",
+      "roof": "روف",
+      "studio": "ستوديو"
+    },
+    "commercial": {
+      "type": "تجاري",
+      "superMarket": "سوبر ماركت",
+      "pharmacy": "صيدلية",
+      "bakery": "مخبز",
+      "vegetables": "خضروات",
+      "another": "آخر"
+    },
+    "industrial": {
+      "type": "صناعي",
+      "buildingMaterials": "مواد البناء",
+      "autoIndustry": "صناعة السيارات",
+      "tobacco": "التبغ",
+      "leather": "الجلود",
+      "electronicIndustries": "الصناعات الإلكترونية",
+      "electrical": "الكهربائية",
+      "chemical": "الكيميائية",
+      "pharmaceutical": "الصيدلانية",
+      "mechanical": "الميكانيكية",
+      "deliveryServices": "خدمات التوصيل",
+      "anotherActivity": "نشاط آخر",
+      "without": "بدون"
+    },
+    "land": {
+      "type": "أرض",
+      "residential": "سكني",
+      "commercial": "تجاري",
+      "administrative": "إداري",
+      "entertaining": "ترفيهي",
+      "industrial": "صناعي",
+      "agricultural": "زراعي",
+      "store": "مخزن",
+      "medical": "طبي",
+      "usufructRight": "حق الانتفاع",
+      "coastal": "ساحلي"
+    },
+    "coastal": {
+      "type": "ساحلي",
+      "chalet": "شاليه",
+      "apartment": "شقة",
+      "loft": "لوفت",
+      "penthouse": "بنتهاوس",
+      "villa": "فيلا",
+      "townHouse": "تاون هاوس",
+      "duplex": "دوبلكس",
+      "twinVilla": "فيلا ثؤام",
+      "roof": "روف"
+    }
+  }
+  
+}

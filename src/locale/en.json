@@ -1,0 +1,295 @@
+{
+  "search": {
+    "forRent": "Rent",
+    "forSell": "Sell",
+    "rooms": "rooms",
+    "bathrooms": "bathrooms",
+    "propertyType": "Property Type",
+    "search": "search",
+    "selectCity": "select city or many cities"
+  },
+  "navbar": {
+    "home": "Home",
+    "buy": "Buy",
+    "rent": "Rent",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "title": "Discover your dream home with our exclusive properties",
+  "footer": {
+    "contact": "Contact Us",
+    "support": "Support",
+    "phone": "Phone",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms Of Use",
+    "copyRights": "All Rights Reserved."
+  },
+  "card": {
+    "type": {
+      "housing": "Housing",
+      "industrial": "Industrial",
+      "coastal": "Coastal",
+      "commercial": "Commercial",
+      "land": "Land"
+    },
+    "noPrice": "No Price Available",
+    "currency": "EGP",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "size": "sqm",
+    "actions": {
+      "fav": "Favorites",
+      "tasks": "Tasks",
+      "remove": "Remove",
+      "edit": "Edit",
+      "love": "Add to Favorites",
+      "unlove": "Remove from Favorites",
+      "location": "location on the map"
+    },
+    "buttons": {
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "email": "Email"
+    },
+    "address": "Address",
+    "city": "City",
+    "copyPhone": "Copy Phone Number"
+  },
+  "view": {
+    "additionalFeaturesTitle": "Additional Features",
+    "descriptionTitle": "Property Details",
+    "priceLabel": "Price:",
+    "bedroomsLabel": "Bedrooms:",
+    "bathroomsLabel": "Bathrooms:",
+    "sizeLabel": "Size:",
+    "copyPhoneSuccess": "Phone number copied to clipboard!",
+    "copyPhoneError": "Failed to copy phone number.",
+    "userProfileDefault": "User",
+    "userProfileAlt": "Profile picture",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone"
+  },
+  "profile": {
+    "information": "Information",
+    "email": "Email",
+    "phone": "Phone",
+    "updatePhonePrompt": "Please type your phone",
+    "sendPhoneButton": "Send Phone",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "changePasswordButton": "Change Password",
+    "passwordUpdatedSuccess": "Password updated successfully!",
+    "passwordUpdatedError": "Failed to update password.",
+    "deleteAccountButton": "Delete Account",
+    "showPrivacySettings": "Show Privacy Settings",
+    "setting": "Settings",
+    "hidePrivacySettings": "Hide Privacy Settings",
+    "profileImageAlt": "User image. Click to change",
+    "addProfileImageAlt": "No user image, click to add one"
+  },
+  "common": {
+    "edit": "Edit",
+    "remove": "Remove",
+    "save": "Save",
+    "submit": "submit"
+  },
+  "dashboard": {
+    "myProps": "My Properties",
+    "favourite": "Favorites",
+    "addProp": "Add Property",
+    "addPropertyTab": {
+      "nextTab": "Next",
+      "prevTab": "Previous",
+      "tab1": {
+        "title": "First",
+        "content": {
+          "address": "Address",
+          "location": "Location",
+          "governorate": {
+            "label": "Governorate",
+            "placeholder": "choose governorate"
+          },
+          "city": {
+            "label": "City",
+            "placeholder": "choose city"
+          }
+        }
+      },
+      "tab2": {
+        "title": "Second",
+        "content": {
+          "type": "Type",
+          "activity": "Activity/Classification",
+          "finishingType": "Finishing Type",
+          "floors": "Floors",
+          "space": "Space (sqm)",
+          "bathrooms": "Bathrooms",
+          "rooms": "Rooms",
+          "finishingOptions": {
+            "selectFinishingType": "Select finishing type",
+            "unfinished": "Unfinished",
+            "semi_finished": "Semi-finished",
+            "finished": "Finished",
+            "luxury": "Luxury",
+            "furnished": "Furnished"
+          },
+          "options": {
+            "selectType": "Select type",
+            "housing": "Housing",
+            "industrial": "Industrial",
+            "coastal": "Coastal",
+            "commercial": "Commercial",
+            "land": "Land"
+          }
+        }
+      },
+      "tab3": {
+        "title": "Third",
+        "content": {
+          "description": "Description",
+          "price": "Price",
+          "sell": "Sell",
+          "rend": "Rent",
+          "cash": "Cash",
+          "installment": "Installment"
+        }
+      },
+      "tab4": {
+        "title": "Fourth",
+        "content": {
+          "pictures": "Pictures",
+          "coverPictures": "Cover Picture",
+          "nextPic": "Next",
+          "prevPic": "Previous",
+          "apply": "Apply",
+          "addPic": "Add Pictures"
+        }
+      },
+      "tab5": {
+        "title": "Fifth",
+        "content": {
+          "AddictionalFeatures": "Additional Features"
+        }
+      }
+    }
+  },
+  "missing": {
+    "cardsViewer": {
+      "notFound": "there is no properties here"
+    }
+  },
+  "sidebar": {
+    "propertyType": "Property Type",
+    "financialSpecs": "Financial Specifications",
+    "technicalSpecs": "Technical Specifications",
+    "location": "Location",
+    "finishingType": "Finishing Type",
+    "additionalFeatures": "Additional Features",
+    "applyFilters": "Apply",
+    "resetFilters": "Reset",
+    "types": {
+      "housing": "Housing",
+      "commercial": "Commercial",
+      "coastal": "Coastal",
+      "industrial": "Industrial",
+      "land": "Land"
+    },
+    "price": "Price",
+    "payment": {
+      "cash": "Cash",
+      "installment": "Installment"
+    },
+    "space": {
+      "from": "From",
+      "to": "To",
+      "area": "Area"
+    },
+    "rooms": "Rooms",
+    "bathrooms": "Bathrooms",
+    "location":{
+      "label": "location",
+      "governorate":"governorate",
+      "city":"city",
+      "governoratePlaceholder":"choose governorate",
+      "cityPlaceholder":"choose city"
+    },
+    "finishing": {
+      "unfinished": "Unfinished",
+      "semi_finished": "Semi-Finished",
+      "finished": "Finished",
+      "luxury": "Luxury",
+      "furnished": "Furnished"
+    },
+    "featuresMessage": "Please select a property type first",
+    "activity": "activity",
+    "classification": "classification",
+    "from": "from",
+    "to": "to"
+  },
+  "activities": {
+    "housing": {
+      "type": "Housing",
+      "apartment": "Apartment",
+      "loft": "Loft",
+      "penthouse": "Penthouse",
+      "villa": "Villa",
+      "townHouse": "Town House",
+      "duplex": "Duplex",
+      "twinVilla": "Twin Villa",
+      "roof": "Roof",
+      "studio": "Studio"
+    },
+    "commercial": {
+      "type": "Commercial",
+      "superMarket": "Super Market",
+      "pharmacy": "Pharmacy",
+      "bakery": "Bakery",
+      "vegetables": "Vegetables",
+      "another": "Another"
+    },
+    "industrial": {
+      "type": "Industrial",
+      "buildingMaterials": "Building Materials",
+      "autoIndustry": "Auto Industry",
+      "tobacco": "Tobacco",
+      "leather": "Leather",
+      "electronicIndustries": "Electronic Industries",
+      "electrical": "Electrical",
+      "chemical": "Chemical",
+      "pharmaceutical": "Pharmaceutical",
+      "mechanical": "Mechanical",
+      "deliveryServices": "Delivery Services",
+      "anotherActivity": "Another Activity",
+      "without": "Without"
+    },
+    "land": {
+      "type": "Land",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "administrative": "Administrative",
+      "entertaining": "Entertaining",
+      "industrial": "Industrial",
+      "agricultural": "Agricultural",
+      "store": "Store",
+      "medical": "Medical",
+      "usufructRight": "Usufruct Right",
+      "coastal": "Coastal"
+    },
+    "coastal": {
+      "type": "Coastal",
+      "chalet": "Chalet",
+      "apartment": "Apartment",
+      "loft": "Loft",
+      "penthouse": "Penthouse",
+      "villa": "Villa",
+      "townHouse": "Town House",
+      "duplex": "Duplex",
+      "twinVilla": "Twin Villa",
+      "roof": "Roof"
+    }
+  }  
+}

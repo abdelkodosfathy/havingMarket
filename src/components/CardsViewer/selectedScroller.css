@@ -1,0 +1,27 @@
+.selected-scroller {
+  /* position: absolute;
+  top: 0;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 18px;
+  background-color: var(--green); */
+  border-radius: 50%;
+  position: absolute;
+  width: 100%;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  border: none;
+  background: var(--green);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid var(--green); */
+  font-weight: bold;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 25px;
+}
